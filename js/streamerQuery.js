@@ -1,4 +1,4 @@
-var streamerList = [ "seesharpist", "thurdi_", "jeepguy_gaming", "techgeddon", "beardsyndicate", "elstar" ];
+var streamerList = [ "seesharpist", "thurdi_", "jeepguy_gaming", "techgeddon", "beardsyndicate" ];
 var iframebegin = '<iframe width="500" height="281" src="https://player.twitch.tv/?channel=' ;
 var iframeend = '" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>';
 var logobegin = '<img src="';
